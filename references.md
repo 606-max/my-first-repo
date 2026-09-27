@@ -19,7 +19,7 @@
 11. SIEBERLING S, CHU Q P, MULDER J A. Robust flight control using incremental nonlinear dynamic inversion and angular acceleration prediction[J]. Journal of Guidance, Control, and Dynamics, 2010, 33(6): 1732-1742.
 12. SMEUR E J J, CHU Q P, DE CROON G C H E. Adaptive incremental nonlinear dynamic inversion for attitude control of micro air vehicles[J]. Journal of Guidance, Control, and Dynamics, 2016, 39(3): 450-461.
 13. WANG X, VAN KAMPEN E J, CHU Q P, et al. Stability analysis for incremental nonlinear dynamic inversion control[J]. Journal of Guidance, Control, and Dynamics, 2019, 42(5): 1116-1129.
-14. TAL E, KARAMAN S. Accurate tracking of aggressive quadrotor trajectories using incremental nonlinear dynamic inversion and differential flatness[J]. IEEE Transactions on Control Systems Technology, 2020, 29(3): 1203-1218.
+14. TAL E, KARAMAN S. Accurate tracking of aggressive quadrotor trajectories using incremental nonlinear dynamic inversion and differential flatness[J]. IEEE Transactions on Control Systems Technology, 2021, 29(3): 1203-1218.
 15. GRONDMAN F, LOOYE G, KUCHAR R, et al. Design and flight testing of incremental nonlinear dynamic inversion-based control laws for a passenger aircraft[C]//2018 AIAA Guidance, Navigation, and Control Conference. AIAA, 2018.
 16. ALAM M, CELIKOVSKY S. On the internal stability of non-linear dynamic inversion: application to flight control[J]. IET Control Theory & Applications, 2017, 11(12): 1849-1861.
 17. HOVAKIMYAN N, CAO C. L1 Adaptive Control Theory: Guaranteed Robustness with Fast Adaptation[M]. Philadelphia: SIAM, 2010.
@@ -39,7 +39,7 @@
 31. KAUFMANN E, BAUERSFELD L, SCARAMUZZA D. A benchmark comparison of learned control policies for agile quadrotor flight[C]//2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022: 10504-10510.
 32. KAUFMANN E, GEHRIG M, FOEHN P, et al. Beauty and the beast: optimal methods meet learning for drone racing[C]//2019 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2019: 690-696.
 33. FOEHN P, BRESCIANINI D, KAUFMANN E, et al. AlphaPilot: autonomous drone racing[J]. Autonomous Robots, 2022, 46(1): 307-320.
-34. CHEN S, LI Y, LOU Y, et al. Aggressive and robust low-level control and trajectory tracking for quadrotors with deep reinforcement learning[J]. Neural Computing and Applications, 2024, 37(3): 1223-1240.
+34. CHEN S, LI Y, LOU Y, et al. Aggressive and robust low-level control and trajectory tracking for quadrotors with deep reinforcement learning[J]. Neural Computing and Applications, 2025, 37(3): 1223-1240.
 35. KIM J, JUNG S. Enhancing UAV stability: a deep reinforcement learning strategy[C]//2024 International Conference on Electronics, Information, and Communication (ICEIC). IEEE, 2024.
 36. DO T, MUNG N X, HONG S K. Deep reinforcement learning-based quadcopter controller: a practical approach and experiments[EB/OL]. (2024-06-13)[2026-09-27]. https://arxiv.org/abs/2406.08815.
 37. 章胜, 周攀, 何扬, 等. 基于深度强化学习的空战机动决策试验[J]. 航空学报, 2023, 44(10): 128094.
@@ -51,10 +51,10 @@
 43. SHI G, SHI X, O'CONNELL M, et al. Neural lander: stable drone landing control using learned dynamics[C]//2019 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2019.
 44. O'CONNELL M, SHI G, SHI X, et al. Neural-Fly enables rapid learning for agile flight in strong winds[J]. Science Robotics, 2022, 7(66): eabm6597.
 45. FOEHN P, ROMERO A, SCARAMUZZA D. Time-optimal planning for quadrotor waypoint flight[J]. Science Robotics, 2021, 6(56): eabh1221.
-46. ROSOLIA U, BORRELLI F. Learning model predictive control for iterative tasks: a data-driven control framework[J]. IEEE Transactions on Automatic Control, 2017, 63(7): 1883-1896.
+46. ROSOLIA U, BORRELLI F. Learning model predictive control for iterative tasks: a data-driven control framework[J]. IEEE Transactions on Automatic Control, 2018, 63(7): 1883-1896.
 47. TORRENTE G, KAUFMANN E, FOEHN P, et al. Data-driven MPC for quadrotors[J]. IEEE Robotics and Automation Letters, 2021, 6(2): 3769-3776.
 48. ROMERO A, SUN S, FOEHN P, et al. Model predictive contouring control for time-optimal quadrotor flight[J]. IEEE Transactions on Robotics, 2022, 38(6): 3340-3356.
-49. HANOVER D, FOEHN P, SUN S, et al. Performance, precision, and payloads: adaptive nonlinear MPC for quadrotors[J]. IEEE Robotics and Automation Letters, 2021, 7(2): 690-697.
+49. HANOVER D, FOEHN P, SUN S, et al. Performance, precision, and payloads: adaptive nonlinear MPC for quadrotors[J]. IEEE Robotics and Automation Letters, 2022, 7(2): 690-697.
 50. KRINNER M, ROMERO A, BAUERSFELD L, et al. MPCC++: model predictive contouring control for time-optimal flight with safety constraints[C]//Robotics: Science and Systems (RSS). 2024.
 51. SUN S, ROMERO A, FOEHN P, et al. A comparative study of nonlinear MPC and differential-flatness-based control for quadrotor agile flight[J]. IEEE Transactions on Robotics, 2022, 38(6): 3357-3373.
 52. KORDABAD A B, REINHARDT D, ANAND A S, et al. Reinforcement learning for MPC: fundamentals and current challenges[C]//IFAC-PapersOnLine, 2023, 56(2): 5773-5780.
@@ -64,7 +64,7 @@
 56. HERBERT S L, CHOI J J, QAZI S, et al. Scalable learning of safety guarantees for autonomous systems using Hamilton-Jacobi reachability[C]//2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.
 57. SOLANKI P, EL-HAJJ I, VAN BEERS J, et al. Unifying Hamilton-Jacobi reachability and reinforcement learning[EB/OL]. (2026-01-12)[2026-09-27]. https://arxiv.org/abs/2601.08050.
 58. PANJA P, HOAGG J B, BAIDYA S. Control barrier function based UAV safety controller in autonomous airborne tracking and following systems[EB/OL]. (2023-12-28)[2026-09-27]. https://arxiv.org/abs/2312.17215.
-59. MANNUCCI T, VAN KAMPEN E J, DE VISSER C, et al. Safe exploration algorithms for reinforcement learning controllers[J]. IEEE Transactions on Neural Networks and Learning Systems, 2017, 29(4): 1069-1081.
+59. MANNUCCI T, VAN KAMPEN E J, DE VISSER C, et al. Safe exploration algorithms for reinforcement learning controllers[J]. IEEE Transactions on Neural Networks and Learning Systems, 2018, 29(4): 1069-1081.
 60. KATZ G, BARRETT C, DILL D L, et al. Reluplex: an efficient SMT solver for verifying deep neural networks[C]//Computer Aided Verification (CAV), LNCS 10426. Cham: Springer, 2017: 97-117.
 61. JULIAN K D, KOCHENDERFER M J. Guaranteeing safety for neural network-based aircraft collision avoidance systems[C]//2019 IEEE/AIAA 38th Digital Avionics Systems Conference (DASC). IEEE, 2019: 1-10.
 62. DMITRIEV K, SCHUMANN J, HOLZAPFEL F. Toward design assurance of machine-learning airborne systems[C]//AIAA Aviation Forum. AIAA, 2021.
@@ -80,7 +80,7 @@
 | 维度 | 结果 | 要求 | 达标 |
 |---|---|---|---|
 | 总数 | 68 | 60–80 | ✅ |
-| 2021–2026 年 | 41（60.3%） | ≥60% 且 ≥40 | ✅ |
+| 2021–2026 年 | 42（61.8%） | ≥60% 且 ≥40 | ✅ |
 | 期刊 [J] | 42 | ≈45 | ✅（近似） |
 | 会议 [C] | 17 | ≈10 | ⚠️ 偏多（含 ICRA/IROS/RSS/CoRL/DASC/CAV 等高口碑会议） |
 | 专著/学位论文 [M]/[D] | 4 | — | ✅ |
@@ -118,8 +118,6 @@
 
 ### 遗留事项（导出 Word 前处理）
 
-- [ ] 编号 14（Tal & Karaman）：草稿年份 2020 与卷期 29(3)（该卷为 2021 年度）存在不一致，投稿前以 IEEE Xplore 页面为准复核。
-- [ ] 编号 34（Chen et al., Neural Computing and Applications 2024, 37(3)）：卷年对应关系需复核。
-- [ ] 编号 46/49/59（Rosolia 2017/63(7)、Hanover 2021/7(2)、Mannucci 2017/29(4)）：年份与卷号的在线发表/正式出版口径需统一复核。
+- [x] 年份口径复核（2026-09-27，详见 year-check.md）：编号 14/34/46/49/59 五条原错用"在线发表年"，已统一改为卷期正式出版年（14: 2020→2021；34: 2024→2025；46: 2017→2018；49: 2021→2022；59: 2017→2018）。改后 2021–2026 年 42 篇，占 61.8%。
 - [ ] 编号 36/57/58 三条 arXiv 预印本：正式版本发表后应替换。
 - [ ] 编号 15/40/41/62 等会议/报告条目的页码或报告编号可再补全。
