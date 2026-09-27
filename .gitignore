@@ -1,0 +1,13 @@
+# 临时文件与系统文件
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+~$*
+
+# 排版导出中间产物（如无需版本管理）
+*.aux
+*.log
+*.out
+*.synctex.gz
